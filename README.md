@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+</h1>
+
+
 # Listagem de Repositórios com React
 
 
@@ -31,3 +36,9 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---

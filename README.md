@@ -1,9 +1,9 @@
-#Listagem de Repositórios com React
+# Listagem de Repositórios com React
 
 
 
-![](https://i.imgur.com/iqyqFpW.png)
-![](https://i.imgur.com/iqyqFpW.png)
+![](https://i.imgur.com/iqyqFpW.png =250x250)
+![](https://i.imgur.com/iqyqFpW.png =250x250)
 
 ## Installation
 

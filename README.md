@@ -2,8 +2,8 @@
 
 
 
-![](https://i.imgur.com/QgrxpF6.png )![](https://i.imgur.com/zCJG2zO.png)
-![](https://i.imgur.com/nXzFSkN.png)
+![](https://i.imgur.com/QgrxpF6.png  | width=100)![](https://i.imgur.com/zCJG2zO.png)
+![](https://i.imgur.com/nXzFSkN.png =250x250)
 
 
 ## Installation

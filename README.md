@@ -2,8 +2,8 @@
 
 
 
-![](https://i.imgur.com/QgrxpF6.png  | width=100)![](https://i.imgur.com/zCJG2zO.png)
-![](https://i.imgur.com/nXzFSkN.png =250x250)
+<img class="wp-image-thumb img-responsive minha-classe" src="https://i.imgur.com/zCJG2zO.png" width="500" height="500" alt="Meu texto alternativo" /><img class="wp-image-thumb img-responsive minha-classe" src="https://i.imgur.com/zCJG2zO.png" width="500" height="500" alt="Meu texto alternativo" />
+
 
 
 ## Installation

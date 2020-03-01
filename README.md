@@ -2,8 +2,7 @@
 
 
 
-<img class="wp-image-thumb img-responsive minha-classe" src="https://i.imgur.com/zCJG2zO.png"  height="400" alt="Meu texto alternativo" />
-<img class="wp-image-thumb img-responsive minha-classe" src="https://i.imgur.com/zCJG2zO.png"  height="400" alt="Meu texto alternativo" />
+<img class="wp-image-thumb img-responsive minha-classe" src="https://i.imgur.com/zCJG2zO.png" width="100%" height="500" alt="Meu texto alternativo" /><img class="wp-image-thumb img-responsive minha-classe" src="https://i.imgur.com/zCJG2zO.png" width="100%" height="500" alt="Meu texto alternativo" />
 
 
 
